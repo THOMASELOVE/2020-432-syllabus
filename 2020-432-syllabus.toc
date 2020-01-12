@@ -19,4 +19,10 @@
 \contentsline {section}{\numberline {3.5}Amr Mahran, MD MS}{16}{section.3.5}
 \contentsline {section}{\numberline {3.6}Amin Saad, MD}{16}{section.3.6}
 \contentsline {chapter}{\numberline {4}Deliverables and Grading}{19}{chapter.4}
+\contentsline {section}{\numberline {4.1}Timing and Deadlines}{19}{section.4.1}
+\contentsline {section}{\numberline {4.2}Participation in the Course}{19}{section.4.2}
+\contentsline {section}{\numberline {4.3}Projects}{19}{section.4.3}
+\contentsline {section}{\numberline {4.4}Homeworks}{20}{section.4.4}
+\contentsline {section}{\numberline {4.5}Quizzes}{20}{section.4.5}
+\contentsline {section}{\numberline {4.6}Grading}{20}{section.4.6}
 \contentsline {chapter}{\numberline {5}A Few Writing/Presenting Tips}{21}{chapter.5}
