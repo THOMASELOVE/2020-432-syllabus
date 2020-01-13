@@ -21,7 +21,8 @@
 \contentsline {chapter}{\numberline {4}Deliverables and Grading}{19}{chapter.4}
 \contentsline {section}{\numberline {4.1}Timing and Deadlines}{19}{section.4.1}
 \contentsline {section}{\numberline {4.2}Participation in the Course}{19}{section.4.2}
-\contentsline {section}{\numberline {4.3}Projects}{19}{section.4.3}
+\contentsline {subsection}{\numberline {4.2.1}Attendance}{19}{subsection.4.2.1}
+\contentsline {section}{\numberline {4.3}Projects}{20}{section.4.3}
 \contentsline {section}{\numberline {4.4}Homeworks}{20}{section.4.4}
 \contentsline {section}{\numberline {4.5}Quizzes}{20}{section.4.5}
 \contentsline {section}{\numberline {4.6}Grading}{20}{section.4.6}

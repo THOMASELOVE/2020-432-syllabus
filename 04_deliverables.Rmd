@@ -12,6 +12,12 @@ Students are required to participate actively in the course, including meaningfu
 - If you're having trouble asking questions, the best way to make a contribution is to find something interesting and share it with us, through 431-help.
 - Most students score between 80% and 100% on this element.
 
+### Attendance
+
+I expect you to come to class. If you have to miss a single class, just be sure to catch up on any needed materials - no need to let me know in advance or afterwards. We expect you to complete all necessary deliverables, and to review the README for that day's class for other announcements. The audio recording can help, too. 
+
+If, however, you are going to miss more than one class in a row, you should let Dr. Love know, via email, in advance, ideally.
+
 ## Projects
 
 Students are required to complete two project assignments, one in mid-semester, and one at the end of the term.
