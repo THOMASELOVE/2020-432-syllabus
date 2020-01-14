@@ -9,6 +9,7 @@ The teaching assistants for 432 this year are
 - [Joseph Hnath, BA]
 - [Amr Mahran, MD MS]
 - [Amin Saad, MD]
+- [Jing Zhang, MD MS]
 
 They are the people answering `431-help at case dot edu`, and they are the people holding the bulk of our regular office hours. Most of them has been in your shoes - they've taken the course in the past, and they enjoyed it enough to come back for more. Many have volunteered their precious time and energy to help make the course happen, and we couldn't be more delighted to welcome you to the course. To contact the TAs, email `431-help at case dot edu`, which is open all semester, starting on the first day we meet.
 
@@ -61,3 +62,12 @@ knitr::include_graphics("figures/Amin.png")
 ```
 
 Amin Saad is an international medical graduate from Syria with two years of General Surgery residency training experience in the United States. Amin is currently enrolled in the CRSP Master's program and is seeking a Ph.D. degree in Clinical and Translational Research with a focus toward lowering surgical site infection rates. Amin took 431 and 432 two cycles ago and has appreciated how the skills he learned in those classes have helped him with his clinical outcomes research at the Department of Colorectal Surgery at University Hospitals. Amin enjoys playing soccer, swimming, and spending time with his family.
+
+## Jing Zhang, MD MS
+
+```{r Jing fig, echo = FALSE, out.width = '30%'}
+knitr::include_graphics("figures/Jing.png")
+```
+
+Jing Zhang is a first year PhD student in the Epidemiology and Biostatistics program in the Department of Population and Quantitative Health Sciences. Jing finished her undergraduate studies in Clinical Medicine and graduate studies in Biostatistics at Fudan University, Shanghai, China. She values the statistical analysis skills learned during graduate studies and enjoys solving statistical problems. During her spare time, she likes jogging and cooking.
+
